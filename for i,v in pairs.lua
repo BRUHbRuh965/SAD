@@ -1,1 +1,0 @@
-for i,v in pairs(game:GetService("Players")["TestLualolll"].PlayerGui:GetChildren())
